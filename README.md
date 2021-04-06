@@ -1,6 +1,6 @@
 # Ajay Liu
 
-<a href = "https://ajayliu.com"><img src="scroll.gif" alt="website scroll preview" width="100%"/></a>
+<a href = "https://ajayliu.com"><img src="cropped_landing.png" alt="website scroll preview" width="100%"/></a>
 
 ## ajayliu.com
 
