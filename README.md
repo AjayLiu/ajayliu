@@ -1,8 +1,12 @@
 # Ajay Liu
+<a href="https://ajayliu.com"><img src="banner-thin.jpg" ></a>
 
-<a href = "https://ajayliu.com"><img src="cropped_landing.png" alt="website scroll preview" width="100%"/></a>
+### Hey yo 👋
 
-## ajayliu.com
-[<img src="https://ajayliu.com/img/ajayliudark.png">](https://ajayliu.com)
+#### I'm a high schooler who does web, app, and game development. I also dance a little :man_cartwheeling:.
 
-[View my website!](https://ajayliu.com)
+##### BIO
+
+- ⚙️ My current favorites: `.tsx`, `.ts`, `.module.scss`, `.netlify`, `.py`, `.cs`
+- 📫 Reach me: [contact@ajayliu.com](https://mail.google.com/mail/?view=cm&fs=1&to=contact@ajayliu.com)
+- 🐶 Fun fact: I'm scared of dogs
