@@ -1,5 +1,6 @@
 # Ajay Liu
-<a href="https://ajayliu.com"><img src="banner-thin.jpg" ></a>
+
+<a href="https://ajayliu.com"><img src="banner-thin.png" ></a>
 
 ### Hey yo 👋
 
